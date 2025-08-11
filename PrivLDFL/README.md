@@ -1,2 +1,1 @@
-[1] B. Yu, J. Zhao, K. Zhang, J. Gong, and H. Qian, “Lightweight and Dynamic Privacy-Preserving Federated Learning via Functional Encryption,” IEEE Transactions on Information Forensics and Security, pp. 1–1, 2025, doi: 10.1109/TIFS.2025.3540312.
-Charm-crypto
+论文“[1] B. Yu, J. Zhao, K. Zhang, J. Gong, and H. Qian, “Lightweight and Dynamic Privacy-Preserving Federated Learning via Functional Encryption,” IEEE Transactions on Information Forensics and Security, pp. 1–1, 2025, doi: 10.1109/TIFS.2025.3540312.”基于Charm-crypto的实现尝试
