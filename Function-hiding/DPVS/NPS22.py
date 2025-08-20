@@ -3,7 +3,7 @@ Dynamic Decentralized Functional Encryption with Strong Security
 https://eprint.iacr.org/2022/1532
 Fig. 7: FH-DMCFE
 基于charm-crypto的实现尝试
-author: legendary_ticket_gate_7A7B
+author: Legendary_7A7B
 '''
 
 from charm.toolbox.pairinggroup import PairingGroup, ZR, G1, G2, GT, pair
